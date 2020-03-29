@@ -872,3 +872,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.29-21.33.16:548][226]AssetCheck: New page: Asset Save: Floor_400x400
 [2020.03.29-21.33.16:548][226]LogContentValidation: Display: Validating StaticMesh /Game/MobileStarterContent/Architecture/Floor_400x400.Floor_400x400
 [2020.03.29-21.33.20:147][641]LogSlate: Window 'Add Content to the Project' being destroyed
+[2020.03.29-21.35.14:289][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
