@@ -1180,3 +1180,511 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.30-13.36.36:212][345]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.438
 [2020.03.30-13.36.36:223][345]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2020.03.30-13.36.36:223][345]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.03.30-13.39.23:146][303]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.03.30-13.39.29:052][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.03.30-13.40.17:950][893]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.03.30-13.40.22:687][317]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/3Triggers/DeadZone.DeadZone
+[2020.03.30-13.40.42:139][473]LogEditorTransaction: Undo Modify Component(s)
+[2020.03.30-13.40.47:030][  3]LogEditorTransaction: Undo Modify Component(s)
+[2020.03.30-13.40.57:468][145]BlueprintLog: New page: Compile DeadZone
+[2020.03.30-13.40.57:757][145]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.03.30-13.43.03:920][194]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.03.30-13.43.03:920][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.30-13.43.13:611][319]LogLinker: Failed to load '/Game/Project/Blueprints/MYFirstPC': Can't find file.
+[2020.03.30-13.43.13:611][319]LogLinker: Failed to load '/Game/Project/Blueprints/MYFirstPC': Can't find file.
+[2020.03.30-13.43.42:931][512]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.03.30-13.43.46:349][886]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.03.30-13.43.46:354][886]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.03.30-13.44.10:421][157]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.03.30-13.44.10:771][157]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2020.03.30-13.44.31:395][ 48]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.03.30-13.44.31:736][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2020.03.30-13.44.35:659][413]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.30-13.44.35:680][413]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.44.35:681][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.30-13.44.35:681][413]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 30, 2020, 5:44:35 PM)
+[2020.03.30-13.44.35:681][413]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.30-13.44.35:735][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053939s)
+[2020.03.30-13.44.35:736][413]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.30-13.44.35:736][413]LogPlayLevel: PIE: World Init took: (0.001524s)
+[2020.03.30-13.44.35:736][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.055689s)
+[2020.03.30-13.44.35:786][413]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.03.30-13.44.35:788][413]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.30-13.44.35:788][413]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.30-13.44.35:788][413]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.30-13.44.35:788][413]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.30-13.44.35:788][413]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.30-13.44.35:788][413]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.30-13.44.35:788][413]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.30-13.44.35:788][413]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.30-13.44.35:789][413]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.30-13.44.35:789][413]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.30-13.44.35:800][413]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.30-13.44.35:801][413]LogAudioMixer: Display: Name: Altavoces (High Definition Audio Device)
+[2020.03.30-13.44.35:801][413]LogAudioMixer: Display: Is Default: Yes
+[2020.03.30-13.44.35:801][413]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.30-13.44.35:801][413]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.30-13.44.35:801][413]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.30-13.44.35:801][413]LogAudioMixer: Display: Channel Order:
+[2020.03.30-13.44.35:801][413]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.30-13.44.35:801][413]LogAudioMixer: Display: 1: FrontRight
+[2020.03.30-13.44.35:811][413]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2020.03.30-13.44.35:813][413]LogInit: FAudioDevice initialized.
+[2020.03.30-13.44.35:821][413]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.30-13.44.35:824][413]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.03.30-15.44.35
+[2020.03.30-13.44.35:824][413]LogWorld: Bringing up level for play took: 0.002743
+[2020.03.30-13.44.35:824][413]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.03.30-13.44.35:827][413]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.401
+[2020.03.30-13.44.35:827][413]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.44.43:539][330]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.44.43:539][330]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.44.43:539][330]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.44.43:539][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.30-13.44.43:539][330]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.30-13.44.43:539][330]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.44.43:540][330]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.30-13.44.43:540][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.30-13.44.43:557][330]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.30-13.44.43:557][330]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.44.43:562][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.30-13.44.43:602][330]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.44.43:604][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.30-13.44.43:611][330]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.03.30-13.44.43:698][332]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.03.30-13.46.54:356][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.03.30-13.46.54:716][ 33]LogSavePackage: Moving '../../../../../../Users/Álvaro/Documents/GitHub/ExFinalUe4_Vidal_Alvaro/EX_Vidal_Alvaro/Saved/ThirdPersonExampleMap_Auto27684BD2246D69BCFE41BB6B44F36BEEB.tmp' to '../../../../../../Users/Álvaro/Documents/GitHub/ExFinalUe4_Vidal_Alvaro/EX_Vidal_Alvaro/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2020.03.30-13.46.54:722][ 33]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.408
+[2020.03.30-13.46.54:722][ 33]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.408
+[2020.03.30-13.46.54:723][ 33]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.03.30-13.46.54:761][ 33]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2020.03.30-13.46.54:761][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2020.03.30-13.46.54:804][ 33]LogSavePackage: Moving '../../../../../../Users/Álvaro/Documents/GitHub/ExFinalUe4_Vidal_Alvaro/EX_Vidal_Alvaro/Saved/ThirdPersonCharacter_Auto21AFF7F3A497F9741DCC824A7D6BA8823.tmp' to '../../../../../../Users/Álvaro/Documents/GitHub/ExFinalUe4_Vidal_Alvaro/EX_Vidal_Alvaro/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2020.03.30-13.46.54:805][ 33]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Secuence/TriggerSecuencerBasico] ([1] browsable assets)...
+[2020.03.30-13.46.54:805][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/Secuence/TriggerSecuencerBasico]
+[2020.03.30-13.46.54:823][ 33]LogSavePackage: Moving '../../../../../../Users/Álvaro/Documents/GitHub/ExFinalUe4_Vidal_Alvaro/EX_Vidal_Alvaro/Saved/TriggerSecuencerBasico_Auto21A3FA56247232EAB67349A8139B00661.tmp' to '../../../../../../Users/Álvaro/Documents/GitHub/ExFinalUe4_Vidal_Alvaro/EX_Vidal_Alvaro/Saved/Autosaves/Game/Secuence/TriggerSecuencerBasico_Auto2.uasset'
+[2020.03.30-13.46.54:824][ 33]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3Triggers/DeadZone] ([1] browsable assets)...
+[2020.03.30-13.46.54:849][ 33]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/3Triggers/DeadZone.DeadZone]
+[2020.03.30-13.46.54:849][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/3Triggers/DeadZone]
+[2020.03.30-13.46.54:866][ 33]LogSavePackage: Moving '../../../../../../Users/Álvaro/Documents/GitHub/ExFinalUe4_Vidal_Alvaro/EX_Vidal_Alvaro/Saved/DeadZone_Auto2C4E5D98B4276BDBC058C1099FFA60435.tmp' to '../../../../../../Users/Álvaro/Documents/GitHub/ExFinalUe4_Vidal_Alvaro/EX_Vidal_Alvaro/Saved/Autosaves/Game/3Triggers/DeadZone_Auto2.uasset'
+[2020.03.30-13.46.54:866][ 33]LogFileHelpers: Auto-saving content packages took 0.144
+[2020.03.30-13.47.14:793][  6]LogEditorViewport: Clicking on Actor (LMB): DeadZone_C (DeadZone)
+[2020.03.30-13.48.50:754][429]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.03.30-13.48.53:740][772]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.03.30-13.48.53:743][772]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.03.30-13.48.54:634][872]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2020.03.30-13.48.54:924][872]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.03.30-13.48.59:472][394]ImportText (StartingPos): Missing opening parenthesis: Begin Object Class=/Script/BlueprintGraph.K2Node_IfThenElse Name="K2Node_IfThenElse_0"
+   NodePosX=-128
+   NodePosY=-2288
+   NodeGuid=95E24E174BED4A68C8F2D29C0BD789E1
+   CustomProperties Pin (PinId=A8E6B3E54122CFE6B6DACC8B972B748E,PinName="execute",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,LinkedTo=(K2Node_Event_0 B6859BF047AFDC077076698A2456CDFC,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+   CustomProperties Pin (PinId=8AFA425A47032F00BD8DE2BC31A04F38,PinName="Condition",PinType.PinCategory="bool",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,DefaultValue="true",AutogeneratedDefaultValue="true",LinkedTo=(K2Node_CallFunction_6 968237134B748361F9A33E971769B207,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+   CustomProperties Pin (PinId=F21D3C9D45CEE51D482396B83B8E5669,PinName="then",PinFriendlyName=NSLOCTEXT("K2Node", "true", "true"),Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,LinkedTo=(K2Node_CallFunction_5 B917645740293B21BE541CBFE4A3A55F,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+   CustomProperties Pin (PinId=3E86335B429944F03D82D0995F211E60,PinName="else",PinFriendlyName=NSLOCTEXT("K2Node", "false", "false"),Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+End Object
+Begin Object Class=/Script/BlueprintGraph.K2Node_CallFunction Name="K2Node_CallFunction_5"
+   FunctionReference=(MemberName="K2_SetActorLocation",bSelfContext=True)
+   NodePosX=352
+   NodePosY=-2368
+   NodeGuid=844D165F461E598B0D2B189534132693
+   CustomProperties Pin (PinId=B917645740293B21BE541CBFE4A3A55F,PinName="execute",PinToolTip="\nExec",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,LinkedTo=(K2Node_IfThenElse_0 F21D3C9D45CEE51D482396B83B8E5669,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+   CustomProperties Pin (PinId=B84F686D4846D34FBD762DA8554CB875,PinName="then",PinToolTip="\nExec",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+   CustomProperties Pin (PinId=3644B691414B164CB317469E59F06DB9,PinName="self",PinFriendlyName=NSLOCTEXT("K2Node", "Target", "Target"),PinToolTip="Target\nActor Object Reference",PinType.PinCategory="object",PinType.PinSubCategory="",PinType.PinSubCategoryObject=Class'"/Script/Engine.Actor"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+   CustomProperties Pin (PinId=1E024FEE4E33BCAF46910F90D617F88B,PinName="NewLocation",PinToolTip="New Location\nVector\n\nThe new location to move the Actor to.",PinType.PinCategory="struct",PinType.PinSubCategory="",PinType.PinSubCategoryObject=ScriptStruct'"/Script/CoreUObject.Vector"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,DefaultValue="0, 0, 0",AutogeneratedDefaultValue="0, 0, 0",LinkedTo=(K2Node_VariableGet_0 C7BE32B049B61A0C3B0FCD96EBB805E9,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+   CustomProperties Pin (PinId=1E5A4AFB41BD100C7BFF6F9969C412F6,PinName="bSweep",PinToolTip="Sweep\nBoolean\n\nWhether we sweep to the destination location, triggering overlaps along the way and stopping short of the target if blocked by something. Only the root component is swept and checked for blocking collision, child components move without sweeping. If collision is off, this has no effect.",PinType.PinCategory="bool",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,DefaultValue="false",AutogeneratedDefaultValue="false",PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+   CustomProperties Pin (PinId=7CFA7DEA446FC1F1C3C562B5DB463E33,PinName="SweepHitResult",PinToolTip="Sweep Hit Result\nHit Result Structure\n\nThe hit result from the move if swept.",Direction="EGPD_Output",PinType.PinCategory="struct",PinType.PinSubCategory="",PinType.PinSubCategoryObject=ScriptStruct'"/Script/Engine.HitResult"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+   CustomProperties Pin (PinId=A807CBB44FE04B40FE4CC5B4EDD51201,PinName="bTeleport",PinToolTip="Teleport\nBoolean\n\nWhether we teleport the physics state (if physics collision is enabled for this object). If true, physics velocity for this object is unchanged (so ragdoll parts are not affected by change in location). If false, physics velocity is updated based on the change in position (affecting ragdoll parts). If CCD is on and not teleporting, this will affect objects along the entire swept volume.",PinType.PinCategory="bool",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,DefaultValue="true",AutogeneratedDefaultValue="false",PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+   CustomProperties Pin (PinId=86DD4F084955D6ABD44D93AAE2A8D943,PinName="ReturnValue",PinToolTip="Return Value\nBoolean\n\nWhether the location was successfully set (if not swept), or whether movement occurred at all (if swept).",Direction="EGPD_Output",PinType.PinCategory="bool",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,DefaultValue="false",AutogeneratedDefaultValue="false",PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+End Object
+Begin Object Class=/Script/BlueprintGraph.K2Node_VariableGet Name="K2Node_VariableGet_0"
+   VariableReference=(MemberName="StartingPos",MemberGuid=43129056485CC6FD1E74769F5818B125,bSelfContext=True)
+   NodePosX=192
+   NodePosY=-2176
+   NodeGuid=AADF733640D3426319F8C8BFFBEA6684
+   CustomProperties Pin (PinId=C7BE32B049B61A0C3B0FCD96EBB805E9,PinName="StartingPos",Direction="EGPD_Output",PinType.PinCategory="struct",PinType.PinSubCategory="",PinType.PinSubCategoryObject=ScriptStruct'"/Script/CoreUObject.Vector"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,DefaultValue="0, 0, 0",AutogeneratedDefaultValue="0, 0, 0",LinkedTo=(K2Node_CallFunction_5 1E024FEE4E33BCAF46910F90D617F88B,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+   CustomProperties Pin (PinId=E26AF58A485422A1EABE0A80C7E6DA7A,PinName="self",PinFriendlyName=NSLOCTEXT("K2Node", "Target", "Target"),PinType.PinCategory="object",PinType.PinSubCategory="",PinType.PinSubCategoryObject=BlueprintGeneratedClass'"/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PersistentGuid=00000000000000000000000000000000,bHidden=True,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+End Object
+
+[2020.03.30-13.48.59:473][394]ImportText (StartingPos): Missing opening parenthesis: Begin Object Class=/Script/BlueprintGraph.K2Node_IfThenElse Name="K2Node_IfThenElse_0"
+   NodePosX=-128
+   NodePosY=-2288
+   NodeGuid=95E24E174BED4A68C8F2D29C0BD789E1
+   CustomProperties Pin (PinId=A8E6B3E54122CFE6B6DACC8B972B748E,PinName="execute",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,LinkedTo=(K2Node_Event_0 B6859BF047AFDC077076698A2456CDFC,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+   CustomProperties Pin (PinId=8AFA425A47032F00BD8DE2BC31A04F38,PinName="Condition",PinType.PinCategory="bool",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,DefaultValue="true",AutogeneratedDefaultValue="true",LinkedTo=(K2Node_CallFunction_6 968237134B748361F9A33E971769B207,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+   CustomProperties Pin (PinId=F21D3C9D45CEE51D482396B83B8E5669,PinName="then",PinFriendlyName=NSLOCTEXT("K2Node", "true", "true"),Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,LinkedTo=(K2Node_CallFunction_5 B917645740293B21BE541CBFE4A3A55F,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+   CustomProperties Pin (PinId=3E86335B429944F03D82D0995F211E60,PinName="else",PinFriendlyName=NSLOCTEXT("K2Node", "false", "false"),Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+End Object
+Begin Object Class=/Script/BlueprintGraph.K2Node_CallFunction Name="K2Node_CallFunction_5"
+   FunctionReference=(MemberName="K2_SetActorLocation",bSelfContext=True)
+   NodePosX=352
+   NodePosY=-2368
+   NodeGuid=844D165F461E598B0D2B189534132693
+   CustomProperties Pin (PinId=B917645740293B21BE541CBFE4A3A55F,PinName="execute",PinToolTip="\nExec",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,LinkedTo=(K2Node_IfThenElse_0 F21D3C9D45CEE51D482396B83B8E5669,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+   CustomProperties Pin (PinId=B84F686D4846D34FBD762DA8554CB875,PinName="then",PinToolTip="\nExec",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+   CustomProperties Pin (PinId=3644B691414B164CB317469E59F06DB9,PinName="self",PinFriendlyName=NSLOCTEXT("K2Node", "Target", "Target"),PinToolTip="Target\nActor Object Reference",PinType.PinCategory="object",PinType.PinSubCategory="",PinType.PinSubCategoryObject=Class'"/Script/Engine.Actor"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+   CustomProperties Pin (PinId=1E024FEE4E33BCAF46910F90D617F88B,PinName="NewLocation",PinToolTip="New Location\nVector\n\nThe new location to move the Actor to.",PinType.PinCategory="struct",PinType.PinSubCategory="",PinType.PinSubCategoryObject=ScriptStruct'"/Script/CoreUObject.Vector"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,DefaultValue="0, 0, 0",AutogeneratedDefaultValue="0, 0, 0",LinkedTo=(K2Node_VariableGet_0 C7BE32B049B61A0C3B0FCD96EBB805E9,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+   CustomProperties Pin (PinId=1E5A4AFB41BD100C7BFF6F9969C412F6,PinName="bSweep",PinToolTip="Sweep\nBoolean\n\nWhether we sweep to the destination location, triggering overlaps along the way and stopping short of the target if blocked by something. Only the root component is swept and checked for blocking collision, child components move without sweeping. If collision is off, this has no effect.",PinType.PinCategory="bool",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,DefaultValue="false",AutogeneratedDefaultValue="false",PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+   CustomProperties Pin (PinId=7CFA7DEA446FC1F1C3C562B5DB463E33,PinName="SweepHitResult",PinToolTip="Sweep Hit Result\nHit Result Structure\n\nThe hit result from the move if swept.",Direction="EGPD_Output",PinType.PinCategory="struct",PinType.PinSubCategory="",PinType.PinSubCategoryObject=ScriptStruct'"/Script/Engine.HitResult"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+   CustomProperties Pin (PinId=A807CBB44FE04B40FE4CC5B4EDD51201,PinName="bTeleport",PinToolTip="Teleport\nBoolean\n\nWhether we teleport the physics state (if physics collision is enabled for this object). If true, physics velocity for this object is unchanged (so ragdoll parts are not affected by change in location). If false, physics velocity is updated based on the change in position (affecting ragdoll parts). If CCD is on and not teleporting, this will affect objects along the entire swept volume.",PinType.PinCategory="bool",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,DefaultValue="true",AutogeneratedDefaultValue="false",PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+   CustomProperties Pin (PinId=86DD4F084955D6ABD44D93AAE2A8D943,PinName="ReturnValue",PinToolTip="Return Value\nBoolean\n\nWhether the location was successfully set (if not swept), or whether movement occurred at all (if swept).",Direction="EGPD_Output",PinType.PinCategory="bool",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,DefaultValue="false",AutogeneratedDefaultValue="false",PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+End Object
+Begin Object Class=/Script/BlueprintGraph.K2Node_VariableGet Name="K2Node_VariableGet_0"
+   VariableReference=(MemberName="StartingPos",MemberGuid=43129056485CC6FD1E74769F5818B125,bSelfContext=True)
+   NodePosX=192
+   NodePosY=-2176
+   NodeGuid=AADF733640D3426319F8C8BFFBEA6684
+   CustomProperties Pin (PinId=C7BE32B049B61A0C3B0FCD96EBB805E9,PinName="StartingPos",Direction="EGPD_Output",PinType.PinCategory="struct",PinType.PinSubCategory="",PinType.PinSubCategoryObject=ScriptStruct'"/Script/CoreUObject.Vector"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,DefaultValue="0, 0, 0",AutogeneratedDefaultValue="0, 0, 0",LinkedTo=(K2Node_CallFunction_5 1E024FEE4E33BCAF46910F90D617F88B,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+   CustomProperties Pin (PinId=E26AF58A485422A1EABE0A80C7E6DA7A,PinName="self",PinFriendlyName=NSLOCTEXT("K2Node", "Target", "Target"),PinType.PinCategory="object",PinType.PinSubCategory="",PinType.PinSubCategoryObject=BlueprintGeneratedClass'"/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C"',PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PersistentGuid=00000000000000000000000000000000,bHidden=True,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+End Object
+
+[2020.03.30-13.49.02:569][760]Cmd: TRANSACTION UNDO
+[2020.03.30-13.49.02:569][760]LogEditorTransaction: Undo Change Parameter Type
+[2020.03.30-13.49.04:543][925]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2020.03.30-13.49.04:545][925]LogClass: Warning: Type mismatch in StartingPos of ThirdPersonExampleMap_C - Previous (StructProperty) Current(BoolProperty) for package:  FObjectReader
+[2020.03.30-13.49.04:824][925]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.03.30-13.49.09:617][331]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.03.30-13.49.10:993][480]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.03.30-13.49.10:997][480]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.03.30-13.49.12:485][643]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2020.03.30-13.49.12:488][643]LogClass: Warning: Type mismatch in StartingPos of ThirdPersonExampleMap_C - Previous (BoolProperty) Current(StructProperty) for package:  FObjectReader
+[2020.03.30-13.49.12:758][643]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.03.30-13.49.31:603][612]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (TriggerSecuencerBasico)
+[2020.03.30-13.49.33:046][755]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.03.30-13.49.42:187][654]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2020.03.30-13.49.42:470][654]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.03.30-13.49.50:363][540]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2020.03.30-13.49.50:649][540]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.03.30-13.49.56:907][192]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.30-13.49.56:928][192]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.49.56:928][192]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.30-13.49.56:928][192]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 30, 2020, 5:49:56 PM)
+[2020.03.30-13.49.56:928][192]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.30-13.49.56:983][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054420s)
+[2020.03.30-13.49.56:984][192]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.30-13.49.56:984][192]LogPlayLevel: PIE: World Init took: (0.001269s)
+[2020.03.30-13.49.56:984][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.055865s)
+[2020.03.30-13.49.57:028][192]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.03.30-13.49.57:030][192]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.30-13.49.57:030][192]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.30-13.49.57:030][192]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.30-13.49.57:030][192]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.30-13.49.57:030][192]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.30-13.49.57:030][192]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.30-13.49.57:030][192]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.30-13.49.57:030][192]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.30-13.49.57:031][192]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.30-13.49.57:031][192]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.30-13.49.57:041][192]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.30-13.49.57:041][192]LogAudioMixer: Display: Name: Altavoces (High Definition Audio Device)
+[2020.03.30-13.49.57:041][192]LogAudioMixer: Display: Is Default: Yes
+[2020.03.30-13.49.57:041][192]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.30-13.49.57:041][192]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.30-13.49.57:041][192]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.30-13.49.57:041][192]LogAudioMixer: Display: Channel Order:
+[2020.03.30-13.49.57:041][192]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.30-13.49.57:041][192]LogAudioMixer: Display: 1: FrontRight
+[2020.03.30-13.49.57:051][192]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2020.03.30-13.49.57:053][192]LogInit: FAudioDevice initialized.
+[2020.03.30-13.49.57:063][192]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.30-13.49.57:066][192]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.03.30-15.49.57
+[2020.03.30-13.49.57:066][192]LogWorld: Bringing up level for play took: 0.002587
+[2020.03.30-13.49.57:066][192]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.03.30-13.49.57:069][192]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.84
+[2020.03.30-13.49.57:069][192]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.50.03:646][973]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.50.03:646][973]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.50.03:646][973]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.50.03:647][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.30-13.50.03:647][973]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.30-13.50.03:647][973]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.50.03:647][973]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.30-13.50.03:647][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.30-13.50.03:670][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.30-13.50.03:670][973]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.50.03:675][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.30-13.50.03:714][973]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.50.03:716][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.30-13.50.03:723][973]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.03.30-13.50.03:747][974]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.03.30-13.50.31:714][121]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2020.03.30-13.50.31:997][121]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2020.03.30-13.50.33:557][275]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.30-13.50.33:577][275]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.50.33:577][275]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.30-13.50.33:577][275]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 30, 2020, 5:50:33 PM)
+[2020.03.30-13.50.33:577][275]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.30-13.50.33:631][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054634s)
+[2020.03.30-13.50.33:632][275]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.30-13.50.33:632][275]LogPlayLevel: PIE: World Init took: (0.001150s)
+[2020.03.30-13.50.33:632][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.055946s)
+[2020.03.30-13.50.33:679][275]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.03.30-13.50.33:679][275]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.30-13.50.33:680][275]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.30-13.50.33:680][275]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.30-13.50.33:680][275]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.30-13.50.33:680][275]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.30-13.50.33:680][275]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.30-13.50.33:680][275]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.30-13.50.33:680][275]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.30-13.50.33:680][275]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.30-13.50.33:680][275]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.30-13.50.33:691][275]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.30-13.50.33:691][275]LogAudioMixer: Display: Name: Altavoces (High Definition Audio Device)
+[2020.03.30-13.50.33:691][275]LogAudioMixer: Display: Is Default: Yes
+[2020.03.30-13.50.33:691][275]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.30-13.50.33:691][275]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.30-13.50.33:691][275]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.30-13.50.33:691][275]LogAudioMixer: Display: Channel Order:
+[2020.03.30-13.50.33:691][275]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.30-13.50.33:691][275]LogAudioMixer: Display: 1: FrontRight
+[2020.03.30-13.50.33:701][275]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2020.03.30-13.50.33:702][275]LogInit: FAudioDevice initialized.
+[2020.03.30-13.50.33:710][275]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.30-13.50.33:713][275]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.03.30-15.50.33
+[2020.03.30-13.50.33:713][275]LogWorld: Bringing up level for play took: 0.002674
+[2020.03.30-13.50.33:713][275]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.03.30-13.50.33:716][275]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.512
+[2020.03.30-13.50.33:716][275]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.50.37:334][703]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.50.37:350][703]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.30-13.50.37:369][703]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.30-13.50.37:369][703]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.50.37:370][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.30-13.50.37:370][703]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.30-13.50.37:370][703]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.50.37:370][703]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.30-13.50.37:371][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.30-13.50.37:397][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.30-13.50.37:397][703]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.50.37:404][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.30-13.50.37:463][703]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.50.37:465][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.30-13.50.37:472][703]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.03.30-13.50.37:498][704]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.03.30-13.50.53:416][433]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2020.03.30-13.50.53:693][433]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.03.30-13.50.57:765][850]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.30-13.50.57:785][850]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.50.57:786][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.30-13.50.57:786][850]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 30, 2020, 5:50:57 PM)
+[2020.03.30-13.50.57:786][850]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.30-13.50.57:838][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052016s)
+[2020.03.30-13.50.57:839][850]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.30-13.50.57:839][850]LogPlayLevel: PIE: World Init took: (0.001412s)
+[2020.03.30-13.50.57:839][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.053600s)
+[2020.03.30-13.50.57:884][850]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.03.30-13.50.57:885][850]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.30-13.50.57:885][850]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.30-13.50.57:885][850]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.30-13.50.57:885][850]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.30-13.50.57:885][850]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.30-13.50.57:885][850]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.30-13.50.57:885][850]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.30-13.50.57:885][850]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.30-13.50.57:886][850]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.30-13.50.57:886][850]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.30-13.50.57:896][850]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.30-13.50.57:896][850]LogAudioMixer: Display: Name: Altavoces (High Definition Audio Device)
+[2020.03.30-13.50.57:896][850]LogAudioMixer: Display: Is Default: Yes
+[2020.03.30-13.50.57:896][850]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.30-13.50.57:896][850]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.30-13.50.57:896][850]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.30-13.50.57:896][850]LogAudioMixer: Display: Channel Order:
+[2020.03.30-13.50.57:896][850]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.30-13.50.57:896][850]LogAudioMixer: Display: 1: FrontRight
+[2020.03.30-13.50.57:905][850]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2020.03.30-13.50.57:907][850]LogInit: FAudioDevice initialized.
+[2020.03.30-13.50.57:914][850]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.30-13.50.57:917][850]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.03.30-15.50.57
+[2020.03.30-13.50.57:917][850]LogWorld: Bringing up level for play took: 0.002512
+[2020.03.30-13.50.57:917][850]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.03.30-13.50.57:919][850]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.309
+[2020.03.30-13.50.57:919][850]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.51.01:566][281]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.51.01:566][281]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.51.01:566][281]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.51.01:566][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.30-13.51.01:566][281]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.30-13.51.01:566][281]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.51.01:567][281]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.30-13.51.01:567][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.30-13.51.01:582][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.30-13.51.01:582][281]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.51.01:588][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.30-13.51.01:626][281]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.51.01:629][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.30-13.51.01:636][281]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.03.30-13.51.01:694][283]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.03.30-13.55.05:578][594]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2020.03.30-13.55.05:871][594]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.03.30-13.55.07:114][706]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.30-13.55.07:135][706]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.55.07:135][706]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.30-13.55.07:135][706]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 30, 2020, 5:55:07 PM)
+[2020.03.30-13.55.07:135][706]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.30-13.55.07:190][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054312s)
+[2020.03.30-13.55.07:191][706]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.30-13.55.07:191][706]LogPlayLevel: PIE: World Init took: (0.001239s)
+[2020.03.30-13.55.07:191][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.055714s)
+[2020.03.30-13.55.07:232][706]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.03.30-13.55.07:233][706]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.30-13.55.07:233][706]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.30-13.55.07:233][706]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.30-13.55.07:233][706]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.30-13.55.07:233][706]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.30-13.55.07:233][706]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.30-13.55.07:233][706]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.30-13.55.07:233][706]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.30-13.55.07:234][706]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.30-13.55.07:234][706]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.30-13.55.07:245][706]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.30-13.55.07:245][706]LogAudioMixer: Display: Name: Altavoces (High Definition Audio Device)
+[2020.03.30-13.55.07:245][706]LogAudioMixer: Display: Is Default: Yes
+[2020.03.30-13.55.07:245][706]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.30-13.55.07:245][706]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.30-13.55.07:245][706]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.30-13.55.07:245][706]LogAudioMixer: Display: Channel Order:
+[2020.03.30-13.55.07:245][706]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.30-13.55.07:245][706]LogAudioMixer: Display: 1: FrontRight
+[2020.03.30-13.55.07:255][706]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2020.03.30-13.55.07:256][706]LogInit: FAudioDevice initialized.
+[2020.03.30-13.55.07:264][706]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.30-13.55.07:267][706]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.03.30-15.55.07
+[2020.03.30-13.55.07:267][706]LogWorld: Bringing up level for play took: 0.002667
+[2020.03.30-13.55.07:268][706]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.03.30-13.55.07:270][706]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.041
+[2020.03.30-13.55.07:270][706]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.55.12:086][276]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.55.12:087][276]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.55.12:087][276]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.55.12:087][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.30-13.55.12:087][276]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.30-13.55.12:087][276]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.55.12:087][276]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.30-13.55.12:088][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.30-13.55.12:101][276]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.30-13.55.12:101][276]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.55.12:107][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.30-13.55.12:146][276]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.55.12:148][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.30-13.55.12:155][276]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.03.30-13.55.12:215][278]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.03.30-13.55.14:289][494]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.30-13.55.14:314][494]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.55.14:314][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.30-13.55.14:314][494]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 30, 2020, 5:55:14 PM)
+[2020.03.30-13.55.14:314][494]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.30-13.55.14:367][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052690s)
+[2020.03.30-13.55.14:368][494]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.30-13.55.14:368][494]LogPlayLevel: PIE: World Init took: (0.001304s)
+[2020.03.30-13.55.14:368][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.054137s)
+[2020.03.30-13.55.14:413][494]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.03.30-13.55.14:414][494]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.30-13.55.14:414][494]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.30-13.55.14:414][494]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.30-13.55.14:414][494]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.30-13.55.14:414][494]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.30-13.55.14:414][494]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.30-13.55.14:414][494]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.30-13.55.14:415][494]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.30-13.55.14:415][494]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.30-13.55.14:415][494]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.30-13.55.14:426][494]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.30-13.55.14:426][494]LogAudioMixer: Display: Name: Altavoces (High Definition Audio Device)
+[2020.03.30-13.55.14:426][494]LogAudioMixer: Display: Is Default: Yes
+[2020.03.30-13.55.14:426][494]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.30-13.55.14:426][494]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.30-13.55.14:426][494]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.30-13.55.14:426][494]LogAudioMixer: Display: Channel Order:
+[2020.03.30-13.55.14:426][494]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.30-13.55.14:426][494]LogAudioMixer: Display: 1: FrontRight
+[2020.03.30-13.55.14:436][494]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2020.03.30-13.55.14:437][494]LogInit: FAudioDevice initialized.
+[2020.03.30-13.55.14:448][494]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.30-13.55.14:451][494]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.03.30-15.55.14
+[2020.03.30-13.55.14:451][494]LogWorld: Bringing up level for play took: 0.002642
+[2020.03.30-13.55.14:451][494]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.03.30-13.55.14:453][494]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.225
+[2020.03.30-13.55.14:453][494]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.55.20:063][159]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.55.20:063][159]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.55.20:063][159]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.55.20:063][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.30-13.55.20:063][159]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.30-13.55.20:063][159]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.55.20:064][159]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.30-13.55.20:064][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.30-13.55.20:077][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.30-13.55.20:077][159]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.55.20:083][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.30-13.55.20:125][159]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.55.20:128][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.30-13.55.20:133][159]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.03.30-13.55.20:200][161]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.03.30-13.57.20:820][717]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2020.03.30-13.57.21:112][717]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.03.30-13.57.22:230][797]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.30-13.57.22:256][797]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.57.22:256][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.30-13.57.22:257][797]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 30, 2020, 5:57:22 PM)
+[2020.03.30-13.57.22:257][797]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.30-13.57.22:311][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054448s)
+[2020.03.30-13.57.22:313][797]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.30-13.57.22:313][797]LogPlayLevel: PIE: World Init took: (0.001446s)
+[2020.03.30-13.57.22:313][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.056217s)
+[2020.03.30-13.57.22:360][797]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.03.30-13.57.22:360][797]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.30-13.57.22:360][797]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.30-13.57.22:360][797]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.30-13.57.22:360][797]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.30-13.57.22:360][797]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.30-13.57.22:360][797]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.30-13.57.22:360][797]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.30-13.57.22:360][797]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.30-13.57.22:361][797]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.30-13.57.22:361][797]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.30-13.57.22:372][797]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.30-13.57.22:372][797]LogAudioMixer: Display: Name: Altavoces (High Definition Audio Device)
+[2020.03.30-13.57.22:372][797]LogAudioMixer: Display: Is Default: Yes
+[2020.03.30-13.57.22:373][797]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.30-13.57.22:373][797]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.30-13.57.22:373][797]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.30-13.57.22:373][797]LogAudioMixer: Display: Channel Order:
+[2020.03.30-13.57.22:373][797]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.30-13.57.22:373][797]LogAudioMixer: Display: 1: FrontRight
+[2020.03.30-13.57.22:383][797]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2020.03.30-13.57.22:384][797]LogInit: FAudioDevice initialized.
+[2020.03.30-13.57.22:391][797]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.30-13.57.22:394][797]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.03.30-15.57.22
+[2020.03.30-13.57.22:394][797]LogWorld: Bringing up level for play took: 0.002703
+[2020.03.30-13.57.22:394][797]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.03.30-13.57.22:397][797]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.169
+[2020.03.30-13.57.22:397][797]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.57.25:788][192]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.57.25:788][192]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.57.25:788][192]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.57.25:788][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.30-13.57.25:788][192]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.30-13.57.25:788][192]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.57.25:788][192]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.30-13.57.25:789][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.30-13.57.25:804][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.30-13.57.25:804][192]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.30-13.57.25:809][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.30-13.57.25:848][192]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-13.57.25:851][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.30-13.57.25:857][192]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.03.30-13.57.25:917][194]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.03.30-13.58.52:439][660]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.03.30-13.58.52:507][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.03.30-13.58.52:881][660]LogSavePackage: Moving '../../../../../../Users/Álvaro/Documents/GitHub/ExFinalUe4_Vidal_Alvaro/EX_Vidal_Alvaro/Saved/ThirdPersonExampleMapE36DBBE24AA56152C64634B15820D7E9.tmp' to '../../../../../../Users/Álvaro/Documents/GitHub/ExFinalUe4_Vidal_Alvaro/EX_Vidal_Alvaro/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.03.30-13.58.52:921][660]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.459
+[2020.03.30-13.58.52:957][660]LogSavePackage: Moving '../../../../../../Users/Álvaro/Documents/GitHub/ExFinalUe4_Vidal_Alvaro/EX_Vidal_Alvaro/Saved/ThirdPersonCharacter2743C91349A723E85B5495A6B47E98F3.tmp' to '../../../../../../Users/Álvaro/Documents/GitHub/ExFinalUe4_Vidal_Alvaro/EX_Vidal_Alvaro/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.03.30-13.58.52:981][660]LogSavePackage: Moving '../../../../../../Users/Álvaro/Documents/GitHub/ExFinalUe4_Vidal_Alvaro/EX_Vidal_Alvaro/Saved/TriggerSecuencerBasicoA5703E8C4CCC30D7FD12A5867CFE28B4.tmp' to '../../../../../../Users/Álvaro/Documents/GitHub/ExFinalUe4_Vidal_Alvaro/EX_Vidal_Alvaro/Content/Secuence/TriggerSecuencerBasico.uasset'
+[2020.03.30-13.58.52:987][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3Triggers/DeadZone" FILE="../../../../../../Users/Álvaro/Documents/GitHub/ExFinalUe4_Vidal_Alvaro/EX_Vidal_Alvaro/Content/3Triggers/DeadZone.uasset" SILENT=true
+[2020.03.30-13.58.52:998][660]LogSavePackage: Moving '../../../../../../Users/Álvaro/Documents/GitHub/ExFinalUe4_Vidal_Alvaro/EX_Vidal_Alvaro/Saved/DeadZoneB68BC51C4A87EFE877A5E9B041EB0FCC.tmp' to '../../../../../../Users/Álvaro/Documents/GitHub/ExFinalUe4_Vidal_Alvaro/EX_Vidal_Alvaro/Content/3Triggers/DeadZone.uasset'
+[2020.03.30-13.58.53:034][660]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.30-13.58.53:034][660]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.03.30-13.58.53:034][660]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.03.30-13.58.53:034][660]LogContentValidation: Display: Validating LevelSequence /Game/Secuence/TriggerSecuencerBasico.TriggerSecuencerBasico
+[2020.03.30-13.58.53:034][660]LogContentValidation: Display: Validating Blueprint /Game/3Triggers/DeadZone.DeadZone
